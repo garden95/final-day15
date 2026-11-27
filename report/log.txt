@@ -1,6 +1,25 @@
-*   7ea4f9e Merge pull request #1 from garden95/feature/sensor
+*   266a63b Merge pull request #4 from garden95/feature/battery
 |\  
-| * b5fb8f4 센서 설정 추가
+| * a0f9b17 배터리 경고 기준 추가
+| * 5c37210 배터리 설정 추가
+* |   0166e41 Merge pull request #3 from garden95/feature/speed-safe
+|\ \  
+| * \   90b8a30 속도 2.0으로 충돌 해결
+| |\ \  
+| |/ /  
+|/| |   
+* | |   820684d Merge pull request #2 from garden95/feature/speed-up
+|\ \ \  
+| |_|/  
+|/| |   
+| * | d42909a 속도 2.5로 변경
+|/ /  
+* | 3be46a7 작업 기록 저장
+* |   7ea4f9e Merge pull request #1 from garden95/feature/sensor
+|\ \  
+| * | b5fb8f4 센서 설정 추가
+|/ /  
+| * 1b1c51f 속도 1.0으로 변경
 |/  
 *   28c69d3 속도 1.5로 충돌 해결
 |\  
